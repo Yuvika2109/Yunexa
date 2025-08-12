@@ -1,17 +1,14 @@
 
 
 ````markdown
-CODE IN MASTER BRANCH
-
-
-🧠 Yunexa – AI Desktop Assistant
+# 🧠 Yunexa – AI Desktop Assistant
 
 Yunexa is a multifunctional **AI-powered desktop assistant** built with **Python**, **OpenCV**, **Hugging Face Transformers**, and **Speech Recognition**.  
 It combines **face authentication**, **voice & text input modes**, and **comprehensive system control** to provide an intuitive, secure, and intelligent user experience.
 
 ---
 
- ✨ Features
+## ✨ Features
 
 - **🔐 Advanced Face Authentication**  
   Uses OpenCV-based facial recognition to verify the user's identity before granting access.
@@ -30,7 +27,7 @@ It combines **face authentication**, **voice & text input modes**, and **compreh
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Programming Language**: Python  
 - **Computer Vision**: OpenCV  
@@ -40,7 +37,7 @@ It combines **face authentication**, **voice & text input modes**, and **compreh
 
 ---
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 1. **Face Authentication** – Yunexa scans the user's face using OpenCV and compares it with stored facial data.
 2. **Input Mode Selection** – Choose between voice commands or text commands.
@@ -50,7 +47,7 @@ It combines **face authentication**, **voice & text input modes**, and **compreh
 
 ---
 
-📚 Example Commands
+## 📚 Example Commands
 
 * `"Open Chrome"`
 * `"Search Python tutorials"`
@@ -60,15 +57,7 @@ It combines **face authentication**, **voice & text input modes**, and **compreh
 
 ---
 
-🛡️ Security
-
-* Local facial recognition data storage for privacy.
-* No cloud-based biometric storage.
-* Secure execution of OS-level commands.
-
----
-
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 * 🌐 Web dashboard to control Yunexa remotely
 * 📱 Mobile app integration
@@ -77,7 +66,7 @@ It combines **face authentication**, **voice & text input modes**, and **compreh
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! If you find a bug or want to suggest a feature:
 
@@ -88,7 +77,7 @@ Pull requests are welcome! If you find a bug or want to suggest a feature:
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
@@ -97,6 +86,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## ⭐ Support
 
 If you find this project useful, **star ⭐ the repository** and share it with others!
+
+
+
 
 
 
